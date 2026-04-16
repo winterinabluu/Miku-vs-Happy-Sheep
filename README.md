@@ -1,5 +1,7 @@
 # Miku vs Happy Sheep
 
+> 说明：这是早期学习 pygame 时的小作品，仅用作留档记录。
+
 `Miku vs Happy Sheep` 是一个基于 Python 和 pygame 编写的 2D 射击小游戏。项目整体结构参考了经典的 Alien Invasion 游戏：玩家控制屏幕底部的角色左右移动并发射子弹，击落从屏幕上方横向移动、逐步下降的目标队列。
 
 项目最早创建提交于 2018-07-13，属于个人学习 pygame 时的小练手作品，轻松看看、随手跑跑就好。
